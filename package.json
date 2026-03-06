@@ -1,6 +1,7 @@
 {
   "name": "header",
   "version": "1.0.0",
+  "homepage": "https://znaumova.github.io/layout_moyo-header/",
   "description": "Frontend practice with header",
   "scripts": {
     "init": "mate-scripts init",
